@@ -74,4 +74,4 @@ A distributed backend platform evolving toward **AI-integrated real-time systems
 🧪 **CinderTide Studio**  
 Building AI-native interactive systems and experimental products.
 
-(Website coming soon)
+🔗 https://phoenix5980.github.io/cindertide-studio-site/
