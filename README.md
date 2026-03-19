@@ -35,8 +35,6 @@ Event Streaming · Distributed Systems · Low-Latency Design · Observability
 
 ## 🚀 Featured Project — Banking Knowledge & Data Copilot
 
-🔗 https://github.com/phoenix5980/event-streaming-service
-
 AI copilot combining **RAG, SQL analytics, and agent routing** for business workflows.
 
 ### ✨ What makes it interesting
