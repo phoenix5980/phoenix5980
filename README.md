@@ -2,25 +2,25 @@
 
 # ✨ Hey, I'm **Phoenix Ye**
 
-🧠 **AI Systems Builder** · 🛠 **Backend Engineer** · 🎮 **Interactive Systems Designer**
+🧠 **AI Systems Engineer** · 🤖 **Copilot Systems** · 🗄 **RAG · Backend Infrastructure**
 
-Building AI-native systems that combine intelligence, data, and real-time interaction.
+Building practical AI applications for knowledge retrieval, analytics, and business workflows.
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Focused on **AI-driven systems & applications**, bridging LLMs, data pipelines, and interactive products  
+- 🧠 Focused on **AI copilots, RAG systems, and agent workflows** for real-world applications  
 - 🛠 Strong background in **distributed systems**, **event streaming**, and **low-latency backend architecture**  
-- 🎮 Creator with **115K+ followers on Bilibili**, experienced in real-time interaction, user behavior, and large-scale engagement  
-- ⚡ Interested in building **AI agents, decision systems, and intelligent tooling** for games and digital platforms  
+- 📊 Building **data analytics interfaces (NL → SQL)** and business-facing AI tools  
+- 🎮 Creator with **115K+ followers on Bilibili**, experienced in real-time interaction and user behavior  
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🧠 AI & Data
-LLMs · Prompt Engineering · RAG · AI Agents · Data Pipelines
+LLMs · RAG · Agent Systems · NL → SQL · Data Pipelines
 
 ### 🏗️ Backend & Infra
 FastAPI · Kafka · Redis · Postgres · Docker · AWS
@@ -33,32 +33,32 @@ Event Streaming · Distributed Systems · Low-Latency Design · Observability
 
 ---
 
-## 📦 Highlight Project — AI-Native Event Streaming System
+## 🚀 Featured Project — Banking Knowledge & Data Copilot
 
 🔗 https://github.com/phoenix5980/event-streaming-service
 
-A distributed backend platform evolving toward **AI-integrated real-time systems**, inspired by Twitch-scale workloads.
+AI copilot combining **RAG, SQL analytics, and agent routing** for business workflows.
 
 ### ✨ What makes it interesting
 
-- ⚡ Designed for **bursty, high-frequency interaction**
-- 🔄 Kafka-based event backbone with replay & idempotency
-- 🧠 Redis hot-path optimization (<50ms)
-- 🗄️ Postgres for durable analytics
-- 🤖 Future direction: integrate **AI-driven event analysis & decision systems**
+- 🤖 RAG-based policy & SOP question answering  
+- 📊 SQL-powered analytics queries (NL → SQL)  
+- 🔀 Explicit agent routing (RAG / SQL / clarification)  
+- 🛡 Readonly safety controls for risk-sensitive scenarios  
+- 🇨🇳 Supports Chinese banking workflows (KYC · support · KPI analytics)
 
 ---
 
 ## 🧪 Current Focus
 
-- 🤖 Building **AI-powered tools for game systems** (FGO, optimization, analytics)
-- 🧠 Exploring **AI agents + real-time pipelines**
-- ⚡ Designing systems that combine **streaming data + intelligent decisions**
-- 🏗️ Developing under **CinderTide Studio**
+- 🤖 Building **AI copilots and agent workflows**  
+- 🧠 Designing **RAG-based knowledge systems**  
+- 📊 Developing **natural-language analytics interfaces**  
+- 🏗️ Backend infrastructure for **AI-native applications**  
 
 ---
 
-## 🎮 Creator Profile — Bilibili
+## 🎮 Creator Background — Bilibili
 
 - 📡 Livestream gameplay & technical analysis  
 - 💬 Experienced with large-scale chat systems & audience interaction  
@@ -72,6 +72,6 @@ A distributed backend platform evolving toward **AI-integrated real-time systems
 ## 🌐 Studio
 
 🧪 **CinderTide Studio**  
-Building AI-native interactive systems and experimental products.
+Building AI applications for business workflows and intelligent systems.
 
 🔗 https://phoenix5980.github.io/cindertide-studio-site/
