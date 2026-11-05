@@ -1,81 +1,44 @@
-<img src="icon/header_1.png" alt="banner" width="100%" />
+# Hi, I'm Phoenix Ye
 
-# ✨ Hey, I'm **Phoenix Ye**
+I'm a full-stack engineer. I build AI applications, developer tools, and Windows desktop utilities, and I enjoy debugging across layers.
 
-🛠 **Backend Engineering** · 📊 **Data Visualization** · 🧠 **LLM Applications & RAG**
+**Currently:** learning WordPress by rebuilding my personal site on it.
 
-Building practical LLM applications for knowledge retrieval, analytics, and business workflows.
+## Selected work
 
----
+**[NightWindow](https://github.com/phoenix5980/night-window)** · C++20, HLSL, Direct3D 11, DirectComposition  
+Per-application dark mode for Windows apps that don't have one. It captures a window, darkens its light areas on the GPU, and shows the result in a click-through overlay, without touching the app. Its validation harness sends real input and refuses false passes.
 
-## 🚀 About Me
+**[Event Streaming Analytics Service](https://github.com/phoenix5980/event-streaming-service)** · Python, FastAPI, Kafka, Redis, PostgreSQL  
+A demo pipeline for bursty interaction events, with asynchronous ingestion, durable buffering, scalable workers, real-time metrics, and long-term storage.
 
-- 🛠 Building **Java / Spring Boot backend services** with REST APIs, data validation, and external system integrations.
-- 📊 Creating **Vue 3 / ECharts dashboards** with interactive maps, chart drill-downs, and consistent reporting data.
-- 🧠 Developing **LLM assistants, RAG systems, and agent workflows** for knowledge retrieval and natural-language analytics (NL → SQL).
-- 🎮 Creator with **115K+ followers on Bilibili**, experienced in real-time interaction and user behavior  
+**[Banking Knowledge & Data Copilot](https://phoenix5980.github.io/cindertide-studio-site/projects/banking-copilot)** · LLMs, RAG, SQL  
+A copilot for Chinese banking workflows: RAG answers over policies and SOPs, natural-language analytics over SQL, explicit routing between the two, and read-only safety controls.
 
----
+**[CinderTide Studio](https://phoenix5980.github.io/cindertide-studio-site/)** · TypeScript, React Router, Tailwind CSS  
+My studio's site, with case studies and interactive demos. [Source](https://github.com/phoenix5980/cindertide-studio-site).
 
-## 🧰 Tech Stack
+**[FGO Card Probability](https://phoenix5980.github.io/FGOTA-Card-Probability/)** · Python, HTML  
+A probability calculator for Fate/Grand Order card draws. [Source](https://github.com/phoenix5980/FGOTA-Card-Probability).
 
-I work across Java backend services, interactive Vue dashboards, and LLM applications for retrieval and analytics.
+## How I work
 
-| Area | Technologies |
+- I look for the real cause. NightWindow seemed to need administrator rights, but the actual cause was a Low integrity label on its build folder.
+- I write down trade-offs and known limits, including what doesn't work yet.
+- I use AI coding agents every day, and I stay responsible for the design, the review, and proving that the result works.
+
+## Tools
+
+| Area | Tools |
 | --- | --- |
-| 🏗️ Backend | **Java · Spring Boot · MyBatis / MyBatis-Plus** · Python · FastAPI |
-| 🖥️ Frontend & Visualization | **Vue 3 · TypeScript · ECharts** · Vite · Element Plus |
-| 🗄️ Data & Integration | MySQL · PostgreSQL · Redis · Kafka · Apache POI · REST APIs · OAuth 2.0 |
-| 🧠 LLMs & Data | LLMs · RAG · Agent Systems · NL → SQL · Data Pipelines |
-| 🔧 Build & Delivery | Git · Maven · Jenkins · Docker · AWS |
-| 💻 Languages | Java · Python · JavaScript · TypeScript · SQL · Go · C++ |
-| ⚙️ Systems Concepts | Event Streaming · Distributed Systems · Low-Latency Design · Observability |
+| Backend | Java, Spring Boot, MyBatis, Python, FastAPI |
+| Frontend | TypeScript, Vue 3, React, ECharts, Tailwind CSS |
+| Data | MySQL, PostgreSQL, Redis, Kafka |
+| Desktop and graphics | C++20, Win32, Direct3D 11, HLSL |
+| AI | RAG, agent workflows, natural language to SQL |
+| Delivery | Git, Maven, Docker |
+| Learning | PHP, WordPress |
 
-### Applied in Practice
+## Elsewhere
 
-- **Backend & integration:** REST API design, OAuth 2.0 client integration, scheduled synchronization, and transactional persistence.
-- **Dashboards:** interactive charts, geographic visualization, and filtered drill-down views with Vue 3 and ECharts.
-- **Data correctness:** validated Excel imports, consistent aggregation and pagination, and explicit handling of zero, missing values, and saved vs. live data.
-
----
-
-## 🚀 Featured Project — Banking Knowledge & Data Copilot
-
-A copilot built with **LLMs, RAG, SQL analytics, and agent routing** for business workflows.
-
-### ✨ What makes it interesting
-
-- 🤖 RAG-based policy & SOP question answering  
-- 📊 SQL-powered analytics queries (NL → SQL)  
-- 🔀 Explicit agent routing (RAG / SQL / clarification)  
-- 🛡 Readonly safety controls for risk-sensitive scenarios  
-- 🇨🇳 Supports Chinese banking workflows (KYC · support · KPI analytics)
-
----
-
-## 🧪 Current Focus
-
-- 🤖 Building **LLM assistants and agent workflows**
-- 🧠 Designing **RAG-based knowledge systems**  
-- 📊 Developing **natural-language analytics interfaces**  
-- 🏗️ Backend infrastructure for **LLM applications**
-
----
-
-## 🎮 Creator Background — Bilibili
-
-- 📡 Livestream gameplay & technical analysis  
-- 💬 Experienced with large-scale chat systems & audience interaction  
-- 🧪 Deep understanding of latency, engagement loops, and user behavior  
-
-⭐ 115K+ followers  
-🔗 https://space.bilibili.com/255152
-
----
-
-## 🌐 Studio
-
-🧪 **CinderTide Studio**  
-Building LLM applications for business workflows and knowledge retrieval.
-
-🔗 https://phoenix5980.github.io/cindertide-studio-site/
+I livestream gameplay and technical analysis on [Bilibili](https://space.bilibili.com/255152), with 115K+ followers.
